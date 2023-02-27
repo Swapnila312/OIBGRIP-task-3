@@ -1,0 +1,49 @@
+body{
+    background-image:url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50rem;
+}
+.main-heading{
+    color: white;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.main-section{
+    background-color: white;
+    text-align: center;
+    margin: 0 20rem 0 20rem;
+    height: 31.25rem;
+    border-radius: 3%;
+} 
+#temperature-calc{
+    padding: 4rem 0 3rem 3rem;
+}
+label{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 2rem;
+}
+.sec1{
+    margin: 2rem;
+}
+#temp{
+    height: 40px;
+    width: 30%;
+    border-radius: 2%;
+    font-size: 22px;
+}
+#temp_type{
+    height: 40px;
+    width: 30%;
+    border-radius: 2%;
+    font-size: 22px;
+}
+.mybtn{
+    height: 40px;
+    width: 20%;
+    border-radius: 2%;
+    font-size: 20px;
+    margin: 2rem;
+}
